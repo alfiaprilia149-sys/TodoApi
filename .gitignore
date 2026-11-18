@@ -1,0 +1,23 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# User-specific files
+*.user
+*.suo
